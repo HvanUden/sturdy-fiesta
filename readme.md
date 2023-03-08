@@ -4,4 +4,4 @@ This is just a demo!
 This is a new line. 
 
 Now our repository can synchronise with a remote.
-Try one more time
+Try one more time.
